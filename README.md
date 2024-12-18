@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi! 👋
+- 🌱 I will make useful things ~~and useless things.~~
+- 🔭 I am a beginner in ~~CSS~~, C, Go and Python.
+- 🇯🇵 I like watching anime or reading manga.
 
-<!--
-**yogysn/yogysn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=react,js,ts,postgresql,docker)
+<br/><br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🪛 The tools I use
+![Tools](https://skillicons.dev/icons?i=arch,vite,pnpm,tailwindcss,nodejs,deno,vscodium,github,discord)
+<br/><br/>
