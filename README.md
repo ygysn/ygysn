@@ -2,7 +2,6 @@
 - 🌱 I will make useful things ~~and useless things.~~
 - 🔭 I am a beginner in ~~CSS~~, C, Go and Python.
 - 🇯🇵 I like watching anime or reading manga.
-- **IMPORTANT NOTE**: I love Amber.
 
 ## 💼 Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=react,js,ts,postgresql,docker)
